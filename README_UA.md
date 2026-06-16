@@ -200,3 +200,20 @@ graph TD
     class Media,M1,M2,M3,M4,M5 media
     class E brand
     class F market
+```
+
+---
+
+## Связь и поддержка
+
+Мы всегда открыты к общению, новым идеям и сотрудничеству. По всем вопросам обращайтесь:
+
+- Telegram-канал: https://t.me/muhamedlabs
+- Email: partners@muhamedlabs.pro
+- Discord: https://discord.com/users/768782555171782667
+
+<br>
+
+<div align="center">
+  <sub><img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> 2023-2028 Muhamed IT <img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> </sub>
+</div>
